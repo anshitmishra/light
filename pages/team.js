@@ -1,7 +1,7 @@
 import styles from '../styles/Team.module.css'
 import Header from '../src/header'
 
-export default function Home() {
+export default function Team() {
   return (
     <div className={styles.main}>
       <Header />

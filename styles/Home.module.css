@@ -1,3 +1,56 @@
+
+
+/* designs */
+#design1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 150px;
+  opacity: .8;
+  z-index: 0;
+  display: block;
+}
+
+#design1 img {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+#design2 {
+  position: absolute;
+  bottom: -40px;
+  right: 0px;
+  width: 150px;
+  opacity: .8;
+  display: block;
+  z-index: 0;
+}
+
+#design2 img {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+#design3 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 150px;
+  opacity: .8;
+  display: inline-block;
+}
+
+#design3 img {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
 .main {
   position: relative;
   width: 100%;
@@ -440,12 +493,14 @@
     width: 100%;
     height: auto;
     min-height: 100vh;
+    overflow: hidden;
   }
 
   .container {
     position: relative;
     width: 100%;
     height: auto;
+    padding: 0px;
     display: block;
   }
 
@@ -456,6 +511,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 20px;
   }
 
   .SubOnecontainerHolder {
@@ -490,6 +546,7 @@
     padding: 20px;
     display: flex;
     justify-content: center;
+    align-items: center;
   }
 
 
