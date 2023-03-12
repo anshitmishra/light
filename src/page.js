@@ -150,7 +150,7 @@ const Home = () => {
                         </div>
                     </div>
                 </div>
-                <div className={styles.footer}>
+                <div className={styles.footerTwo}>
                     <p> <Link href={"/team"} passHref>Team Members</Link></p>
                 </div>
                 <div className={styles.footer}>

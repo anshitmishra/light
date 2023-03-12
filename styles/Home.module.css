@@ -456,13 +456,35 @@
   background: #222222;
 }
 
+.footerTwo {
+  position: relative;
+  width: 100%;
+  height: auto;
+  padding: 20px 10px;
+  text-align: center;
+}
+
+.footerTwo p {
+  position: relative;
+  width: auto;
+  color: white;
+  font-size: 14px;
+  font-weight: 500;
+  text-transform: capitalize;
+}
+
+.footerTwo p a {
+  color: #add8e6;
+  text-decoration: underline;
+}
+
+
 .footer {
   position: relative;
   width: 100%;
   height: auto;
   padding: 20px 10px;
   text-align: center;
-  border-top: .5px solid white;
 }
 
 .footer p {
@@ -660,6 +682,15 @@
   border-radius: 10px;
   margin: 10px auto;
   display: inline-block;
+}
+.footerTwo {
+  position: relative;
+  width: 100%;
+  height: auto;
+  padding: 20px 10px;
+  text-align: center;
+  border-top: .5px solid white;
+
 }
 
 }
