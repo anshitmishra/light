@@ -348,6 +348,7 @@
   font-size: 20px;
   font-weight: 500;
   font-family: 'ubuntu';
+  color: black;
 }
 
 
@@ -585,6 +586,7 @@
 
   .prizeCard {
     margin: 5px auto;
+    color: #000;
   }
 
 /* container two */
