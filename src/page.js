@@ -82,7 +82,7 @@ const Home = () => {
                             <li data-aos="fade-right" data-aos-duration="1150">An introductory webinar will be conducted to  explain the complete process of hackathon</li>
                             <li data-aos="fade-right" data-aos-duration="1200">Participants can use any development  platform or IDE to write their code.</li>
                             <li data-aos="fade-right" data-aos-duration="1250">The project will not be considered if submitted after the deadline.</li>
-                            <li data-aos="fade-right" data-aos-duration="1300">The projects will be evaluated based on criteria such as impact, innovation, feasibility, and presentation. The judges' decision will be final and binding..The jury will be composed of a group of members chosen from the most reliable professionals of the organisation as well as businessmen and startup holders.</li>
+                            <li data-aos="fade-right" data-aos-duration="1300">The projects will be evaluated based on criteria such as impact, innovation, feasibility, and presentation. The judges decision will be final and binding. The jury will be composed of a group of members chosen from the most reliable professionals of the organisation as well as businessmen and startup holders.</li>
                             <li data-aos="fade-right" data-aos-duration="1350">The winning teams will receive prizes, including cash prizes, and goodies.</li>
                         </ul>
                     </div>
