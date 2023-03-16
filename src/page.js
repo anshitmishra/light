@@ -111,7 +111,7 @@ const Home = () => {
                                 <img src="/logo2.png" alt="light ngo" />
                             </div>
                             <div className={styles.cardDetails}>
-                                <p>Light Gwalior</p>
+                                <p>LiGHT Gwl. Sithouli</p>
                                 <span>NGO</span>
                             </div>
                             <div className={styles.cardContact}>
