@@ -32,7 +32,7 @@ const Home = () => {
                         <div className={styles.SubOnecontainerHolder}>
                             <h1>{"<>"} Social spark {"</>"}</h1>
                             <h2>{"{"} code your vision.  {"}"}</h2>
-                            <a href='https://forms.gle/2vt4UMy7wwnEanVf9' target='_blank'><button >registration Free <BsArrowRight style={{ margin: "0px 5px" }} /></button></a>
+                            <a href='https://forms.gle/2vt4UMy7wwnEanVf9' target='_blank'><button >Registration Free <BsArrowRight style={{ margin: "0px 5px" }} /></button></a>
                             <p>2023 biggest Hackathon. join us now and win amazing prizepool</p>
                         </div>
                         <p id={styles.design2} data-aos="fade-left" data-aos-duration="3000"><img src="./d2.svg" alt="design one" /></p>
