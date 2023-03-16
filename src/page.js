@@ -32,7 +32,7 @@ const Home = () => {
                         <div className={styles.SubOnecontainerHolder}>
                             <h1>{"<>"} Social spark {"</>"}</h1>
                             <h2>{"{"} code your vision.  {"}"}</h2>
-                            <button >Register Now <BsArrowRight style={{ margin: "0px 5px" }} /></button>
+                            <a href='https://forms.gle/2vt4UMy7wwnEanVf9' target='_blank'><button >Register Now <BsArrowRight style={{ margin: "0px 5px" }} /></button></a>
                             <p>2023 biggest Hackathon. join us now and win amazing prizepool</p>
                         </div>
                         <p id={styles.design2} data-aos="fade-left" data-aos-duration="3000"><img src="./d2.svg" alt="design one" /></p>
@@ -108,46 +108,19 @@ const Home = () => {
                     <div className={styles.mainContactHolder}>
                         <div className={styles.mainContactCard} data-aos="zoom-in" data-aos-duration="2000">
                             <div className={styles.mainContactCardImage}>
-                                <img src="/daksh.jpg" alt="daksh" />
+                                <img src="/logo2.png" alt="light ngo" />
                             </div>
                             <div className={styles.cardDetails}>
-                                <p>daksh jha</p>
-                                <span>Team Coordinator</span>
+                                <p>Light Gwalior</p>
+                                <span>NGO</span>
                             </div>
                             <div className={styles.cardContact}>
-                                <p data-aos="fade-left" data-aos-duration="1000"><AiOutlineMail /></p>
-                                <p data-aos="fade-left" data-aos-duration="1400"><BsInstagram /></p>
-                                <p data-aos="fade-left" data-aos-duration="1800"><BsLinkedin /></p>
+                                <a href="mailto:light.gwalior@gmail.com" target='_blank'><p data-aos="fade-left" data-aos-duration="1000"><AiOutlineMail /></p></a>
+                                <a href='https://instagram.com/light_gwalior?igshid=YmMyMTA2M2Y=' target='_blank'  ><p data-aos="fade-left" data-aos-duration="1400"><BsInstagram /></p></a>
+                                <a href='https://www.linkedin.com/in/light-gwalior-sithouli-3a1145248' target='_blank'><p data-aos="fade-left" data-aos-duration="1800"><BsLinkedin /></p></a>
                             </div>
                         </div>
-                        <div className={styles.mainContactCard} data-aos="zoom-in" data-aos-duration="2000">
-                            <div className={styles.mainContactCardImage}>
-                                <img src="/anshit2.jpeg" alt="anshit" />
-                            </div>
-                            <div className={styles.cardDetails}>
-                                <p>anshit mishra</p>
-                                <span>Team Coordinator</span>
-                            </div>
-                            <div className={styles.cardContact}>
-                                <p data-aos="fade-left" data-aos-duration="1000"><AiOutlineMail /></p>
-                                <p data-aos="fade-left" data-aos-duration="1400"><BsInstagram /></p>
-                                <p data-aos="fade-left" data-aos-duration="1800"><BsLinkedin /></p>
-                            </div>
-                        </div>
-                        <div className={styles.mainContactCard} data-aos="zoom-in" data-aos-duration="2000">
-                            <div className={styles.mainContactCardImage}>
-                                <img src="/deepanshi.jpeg" alt="deepanshi rai" />
-                            </div>
-                            <div className={styles.cardDetails}>
-                                <p>deepanshi rai</p>
-                                <span>Team Coordinator</span>
-                            </div>
-                            <div className={styles.cardContact}>
-                                <p data-aos="fade-left" data-aos-duration="1000"><AiOutlineMail /></p>
-                                <p data-aos="fade-left" data-aos-duration="1400"><BsInstagram /></p>
-                                <p data-aos="fade-left" data-aos-duration="1800"><BsLinkedin /></p>
-                            </div>
-                        </div>
+
                     </div>
                 </div>
                 <div className={styles.footerTwo}>
