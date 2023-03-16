@@ -63,7 +63,7 @@ const Home = () => {
                             <div className={styles.prizeCardImg}>
                                 <img src='/third.png' ></img>
                             </div>
-                            <p>third winner will get goodies.</p>
+                            <p>third winner will get 1000rs worth goodies.</p>
                         </div>
                     </div>
                 </div>
