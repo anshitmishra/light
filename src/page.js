@@ -126,9 +126,9 @@ const Home = () => {
                 <div className={styles.footerTwo}>
                     <p> <Link href={"/team"} passHref>Team Members</Link></p>
                 </div>
-                <div className={styles.footer}>
-                    <p>this website is developed by <a href="https://github.com/anshitmishra" target="_blank" rel="noopener noreferrer">Anshit mishra</a></p>
-                </div>
+                // <div className={styles.footer}>
+                //     <p>this website is developed by <a href="https://github.com/anshitmishra" target="_blank" rel="noopener noreferrer">Anshit mishra</a></p>
+                // </div>
             </div>
         </>
     )
